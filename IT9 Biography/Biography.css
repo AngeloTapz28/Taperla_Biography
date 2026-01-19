@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+span.name{
+    color: black;
+    font-weight: bold;
+    font-size: 120%;
+    background-color: lightgray;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+img{
+    border-radius: 50%;
+}
+
+span.html{
+    color: blue;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+span.css{
+    color: red;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+div.AboutMe{
+    text-align: left;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgreen;
+    border: 1px solid black;
+    width: 400px;
+    padding: 10px;
+}
+
